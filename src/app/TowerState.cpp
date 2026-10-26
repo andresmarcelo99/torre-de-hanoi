@@ -1,4 +1,4 @@
-#include "core/TowerState.h"
+#include "app/TowerState.h"
 
 TowerState::TowerState(int diskCount) {
     // Limitar diskCount al rango [0, MAX_DISKS] para no escribir fuera del arreglo

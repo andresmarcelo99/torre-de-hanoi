@@ -7,9 +7,9 @@
 #include "raygui.h"
 
 #include "core/HanoiSolver.h"
-#include "core/TowerState.h"
-#include "ui/CallsPanel.h"
-#include "ui/UiCommon.h"
+#include "app/TowerState.h"
+#include "app/CallsPanel.h"
+#include "app/UiCommon.h"
 
 // ---------------------------------------------------------------------------
 // Medidas de la escena 3D (en unidades del mundo)

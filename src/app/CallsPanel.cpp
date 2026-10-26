@@ -1,7 +1,7 @@
-#include "ui/CallsPanel.h"
+#include "app/CallsPanel.h"
 #include <cmath>
 #include "raygui.h"   // solo declaraciones: la implementación está en main.cpp
-#include "ui/UiCommon.h"
+#include "app/UiCommon.h"
 
 // 'static' en las funciones de abajo = solo se usan dentro de este archivo
 
